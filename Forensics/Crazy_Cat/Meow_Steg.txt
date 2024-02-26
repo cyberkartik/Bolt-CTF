@@ -1,0 +1,5 @@
+Question: My pussy cat is missing. Can you find her? Last seen saying meowing meowing in the blanket!!
+
+Given: Missing.jpg
+
+Flag: Bolt{}

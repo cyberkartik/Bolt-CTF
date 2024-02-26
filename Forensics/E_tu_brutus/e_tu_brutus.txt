@@ -1,0 +1,5 @@
+Question: Several Bolt members attempted to escape for a camping trip, only to have their headphones unexpectedly emit a strange sound upon leaving campus. A recording of this incident was obtained—anyone up for helping decipher it to uncover its significance?
+
+Given: file.wav
+
+Flag: Bolt{}

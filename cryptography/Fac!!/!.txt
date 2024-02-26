@@ -1,0 +1,8 @@
+Question: In the context of number theory and cryptography, prime factorization plays a pivotal role. I have a CTF challenge in which participants are tasked with analyzing a file named challenge.txt, which contains a single large number:
+
+Num: 2174096211032823084932239036566496093206280423
+
+The objective is to leverage computational techniques and algorithms to decompose this number into its prime factors.
+
+
+Flag: Bolt{}

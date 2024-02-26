@@ -1,0 +1,5 @@
+Question: Mr TEE has forgotten the passcode to his phone, he has some information about the system configuration, can you figure it out?
+
+Given: Zip file
+
+Flag: Bolt{}

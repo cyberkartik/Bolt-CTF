@@ -1,0 +1,5 @@
+Question: Can anyone help decipher this mysterious message left on a terminal with a post-it nearby? It seems to be a key to unraveling a larger puzzle, potentially related to recent break-ins on campus. With exams looming, the pressure is on to crack it. Any takers?
+
+Given: lmq_chc_ur_mpq_jnbgvx
+
+Flag: Bolt{}

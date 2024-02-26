@@ -1,0 +1,5 @@
+Question: Our cryptography specialist Mr.Vig is currently unavailable, so help us decode this string.
+
+String: THNqZHt3c2xxZ2RfanljeH0=
+
+Flag: Bolt{}

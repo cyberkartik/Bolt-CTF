@@ -1,0 +1,5 @@
+Question: Can't read please help
+
+Given: Blind.txt
+
+Flag: Bolt{}

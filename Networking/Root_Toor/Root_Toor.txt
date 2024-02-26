@@ -1,0 +1,5 @@
+Question: Can you crack the admin password from the downloadable file?
+
+Given: pcap file will be given chall.zip
+
+Flag: Bolt{}

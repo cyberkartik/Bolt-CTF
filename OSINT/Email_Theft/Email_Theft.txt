@@ -1,0 +1,5 @@
+Question: Marcus Got a Mysterious mail promising flag for Bolt CTF, if he could crack the password to the file.
+
+Files: Email.jpg, TheEmail.eml and unzipme.zip
+
+Flag: Bolt{}

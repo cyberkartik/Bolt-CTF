@@ -1,0 +1,5 @@
+Question: Could you please assist our security researchers with solving the steganography within a blank document for forensic, OSINT, and miscellaneous tasks?
+
+Given: steg.png
+
+Flag: Bolt{}
